@@ -5,7 +5,5 @@ Backend for a mock social media webpage
 
 
 # Current functions
-Sign in, out, and up
-Displays all users
-Delete users
+Sign in, out, and up. Displays all users and able to delete the signed in user.
 
